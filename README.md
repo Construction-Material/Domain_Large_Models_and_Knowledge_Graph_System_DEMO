@@ -13,23 +13,23 @@
 
 ### 功能介绍
 
-1. 理解查询问题并回答（支持问题缺陷理解和智能提示）
+#### 1. 理解查询问题并回答（支持问题缺陷理解和智能提示）
 
-演示示例：[con-AI low level 2-refined](uploads/con-AI_low_level_2_refined.mp4)
+- 演示示例：[con-AI low level 2-refined](uploads/con-AI_low_level_2_refined.mp4)
 
-演示示例：[con-AI mid-level 1-refined](uploads/con-AI_mid_level_1_refined.mp4)
+- 演示示例：[con-AI mid-level 1-refined](uploads/con-AI_mid_level_1_refined.mp4)
 
-2. 输入仅包含标题的空白标书，自动生成填充内容（视频中，以桩基施工部分的技术方案为例，实现包括文字、图片、表格的自动组合生成）
+#### 2. 输入仅包含标题的空白标书，自动生成填充内容（视频中，以桩基施工部分的技术方案为例，实现包括文字、图片、表格的自动组合生成）
 
-演示示例：[con-AI high-level 2-refined](uploads/con-AI_high_level_2_refined.mp4)
+- 演示示例：[con-AI high-level 2-refined](uploads/con-AI_high_level_2_refined.mp4)
 
-3. 本地计算工具自动调用（视频中，调用本地的劳动力需求计算工具，基于输入的工期和工程量等数据，实现劳动力需求分析）
+#### 3. 本地计算工具自动调用（视频中，调用本地的劳动力需求计算工具，基于输入的工期和工程量等数据，实现劳动力需求分析）
 
-演示示例：[con-AI high-level 1-refined](uploads/con-AI_high_level_1_refined.mp4)
+- 演示示例：[con-AI high-level 1-refined](uploads/con-AI_high_level_1_refined.mp4)
 
-4. 基于IFC的BIM模型智能交互（视频中，使用大模型对BIM-IFC数据和用户意图并行解析，并在IFC层实现BIM模型查询和更新）
+#### 4. 基于IFC的BIM模型智能交互（视频中，使用大模型对BIM-IFC数据和用户意图并行解析，并在IFC层实现BIM模型查询和更新）
 
-演示示例：[con-AI high-level 2-refined](uploads/con-AI_high_level_2_refined.mp4)
+- 演示示例：[con-AI high-level 2-refined](uploads/con-AI_high_level_2_refined.mp4)
 
 ## 中科院深圳先进院（SIAT）存量知识产权智能管理系统
 
@@ -39,11 +39,11 @@
 
 技术需求查询→团队匹配度分析→智能咨询交互（视频中，基于“肺病”和“音视频隐私处理和提取”为例子，找到该产业需求在先进院内最匹配的技术团队，支持卡片、图谱等多种展示方式，并实现基于大模型和技术团队的智能交互问答）
 
-演示示例：[demo_202](uploads/demo_202.mp4)
+- 演示示例：[demo_202](uploads/demo_202.mp4)
 
-演示示例：[demo_102+文件识别](uploads/demo_102+文件识别.mp4)
+- 演示示例：[demo_102+文件识别](uploads/demo_102+文件识别.mp4)
 
-演示示例：[demo-环绕智能+聊天](uploads/demo-环绕智能+聊天.mp4)
+- 演示示例：[demo-环绕智能+聊天](uploads/demo-环绕智能+聊天.mp4)
 
 ## 对深圳龙华区人民法院域外法查明平台
 
