@@ -15,21 +15,21 @@
 
 1. 理解查询问题并回答（支持问题缺陷理解和智能提示）
 
-演示示例：[con-AI low level 2-refined](uploads/con-AI low level 2-refined.mp4)
+演示示例：[con-AI low level 2-refined](uploads/con-AI_low_level_2_refined.mp4)
 
-演示示例：[con-AI mid-level 1-refined](uploads/con-AI mid-level 1-refined.mp4)
+演示示例：[con-AI mid-level 1-refined](uploads/con-AI_mid_level_1_refined.mp4)
 
 2. 输入仅包含标题的空白标书，自动生成填充内容（视频中，以桩基施工部分的技术方案为例，实现包括文字、图片、表格的自动组合生成）
 
-演示示例：[con-AI high-level 2-refined](uploads/con-AI high-level 2-refined.mp4)
+演示示例：[con-AI high-level 2-refined](uploads/con-AI_high_level_2_refined.mp4)
 
 3. 本地计算工具自动调用（视频中，调用本地的劳动力需求计算工具，基于输入的工期和工程量等数据，实现劳动力需求分析）
 
-演示示例：[con-AI high-level 1-refined](uploads/con-AI high-level 1-refined.mp4)
+演示示例：[con-AI high-level 1-refined](uploads/con-AI_high_level_1_refined.mp4)
 
 4. 基于IFC的BIM模型智能交互（视频中，使用大模型对BIM-IFC数据和用户意图并行解析，并在IFC层实现BIM模型查询和更新）
 
-演示示例：[con-AI high-level 2-refined](uploads/con-AI high-level 2-refined.mp4)
+演示示例：[con-AI high-level 2-refined](uploads/con-AI_high_level_2_refined.mp4)
 
 ## 中科院深圳先进院（SIAT）存量知识产权智能管理系统
 
