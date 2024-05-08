@@ -29,9 +29,9 @@
 
 - 演示示例：![需求分析](uploads/con-AI_high_level_1_refined.gif)
 
-4. 基于IFC的BIM模型智能交互（视频中，使用大模型对BIM-IFC数据和用户意图并行解析，并在IFC层实现BIM模型查询和更新）
+4. 基于IFC的BIM模型智能交互（使用大模型对BIM-IFC数据和用户意图并行解析，并在IFC层实现BIM模型查询和更新）
 
-- 演示示例：[交互分析](uploads/BIM_demo-1.gif)
+- 演示示例：![BIM交互分析](uploads/BIM_demo-1.gif)
 
 ## 中科院深圳先进院（SIAT）存量知识产权智能管理系统
 
