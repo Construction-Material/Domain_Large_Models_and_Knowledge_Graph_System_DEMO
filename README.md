@@ -15,11 +15,11 @@
 
 1. 理解查询问题并回答（支持问题缺陷理解和智能提示）
 
-- 演示示例：![问题查询](uploads/con-AI_low_level_2_refined.gif)
+- 演示示例（阡陌-本地版）：![问题查询](uploads/con-AI_low_level_2_refined.gif)
 
-- 演示示例：![问题理解](uploads/con-AI_mid_level_1_refined.gif)
+- 演示示例（阡陌-本地版）：![问题理解](uploads/con-AI_mid_level_1_refined.gif)
   
-- 演示示例：![问题查询](uploads/三局demo.gif)
+- 演示示例（阡陌-三局落地版）：![问题查询](uploads/三局demo.gif)
 
 2. 输入仅包含标题的空白标书，自动生成填充内容（视频中，以桩基施工部分的技术方案为例，实现包括文字、图片、表格的自动组合生成）
 
@@ -31,7 +31,7 @@
 
 4. 基于IFC的BIM模型智能交互（视频中，使用大模型对BIM-IFC数据和用户意图并行解析，并在IFC层实现BIM模型查询和更新）
 
-- 演示示例：[交互分析](uploads/con-AI_high_level_2_refined.mp4)
+- 演示示例：[交互分析](uploads/BIM_demo-1.gif)
 
 ## 中科院深圳先进院（SIAT）存量知识产权智能管理系统
 
